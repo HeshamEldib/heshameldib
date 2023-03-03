@@ -30,19 +30,21 @@ Here are some ideas to get you started:
 [<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
+[<img alt="Bootstrap" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][Bootstrap]
+[<img alt="Sass" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][Sass]
+[<img alt="jQuery" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][jQuery]
 [<img alt="React" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
 [<img alt="Redux" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][Redux]
+[<img alt="Jest" width="58" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" />][Jest]
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
 [<img alt="Express" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][Express]
 [<img alt="Mongodb" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][Mongodb]
-
 [<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio]
 [<img alt="Git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
 [<img alt="GitHub" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 
 <!-- [<img alt="TypeScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TypeScript] -->
 <!-- [<img alt="WebPack" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />][WebPack] -->
-<!-- [<img alt="Jest" width="58" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" />][Jest] -->
 <!-- [<img alt="Testing Library" width="58" src="https://testing-library.com/img/octopus-64x64.png" />][Testing Library] -->
 <!-- [<img alt="Firebase" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase] -->
 <!-- [<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++] -->
@@ -54,7 +56,7 @@ Here are some ideas to get you started:
 
 ## 📚 Learning Right Now
 
-<!-- [<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++] -->
+[<img alt="PHP" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][PHP]
 <!-- [<img alt="Swift" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][Swift] -->
 
 ## 📃 Latest Blog Posts
@@ -79,17 +81,20 @@ Here are some ideas to get you started:
 [CSS]: https://github.com/search?q=css
 [JavaScript]: https://github.com/search?q=javascript
 <!-- [TypeScript]: https://www.typescriptlang.org/ -->
+[Bootstrap]: https://getbootstrap.com/
+[Sass]: https://www.sassmeister.com/about
+[jQuery]: https://jquery.com/
 [React]: https://reactjs.org/
 <!-- [WebPack]: https://webpack.js.org/ -->
 [Redux]: https://redux.js.org/
 <!-- [GraphQL]: https://graphql.org/ -->
-<!-- [Jest]: https://jestjs.io/ -->
+[Jest]: https://jestjs.io/
 <!-- [Testing Library]: https://testing-library.com/ -->
 [Node]: https://nodejs.org/en/
 [Express]: https://expressjs.com/
 [Mongodb]: https://www.mongodb.com/
 <!-- [Firebase]: https://firebase.google.com/ -->
-<!-- [C++]: https://github.com/search?q=cpp -->
+[php]: https://github.com/search?q=php
 <!-- [Swift]: https://github.com/search?q=swift -->
 <!-- [Python]: https://github.com/search?q=python -->
 [Visual Studio]: https://code.visualstudio.com/
