@@ -30,27 +30,27 @@ Here are some ideas to get you started:
 [<img alt="HTML" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img alt="CSS" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
-[<img alt="TypeScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TypeScript]
+<!-- [<img alt="TypeScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TypeScript] -->
 [<img alt="React" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
-[<img alt="WebPack" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />][WebPack]
+<!-- [<img alt="WebPack" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />][WebPack] -->
 [<img alt="Redux" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][Redux]
 [<img alt="GraphQL" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][GraphQL]
-[<img alt="Jest" width="58" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" />][Jest]
-[<img alt="Testing Library" width="58" src="https://testing-library.com/img/octopus-64x64.png" />][Testing Library]
+<!-- [<img alt="Jest" width="58" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" />][Jest] -->
+<!-- [<img alt="Testing Library" width="58" src="https://testing-library.com/img/octopus-64x64.png" />][Testing Library] -->
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
-[<img alt="Firebase" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase]
-[<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
-[<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
+<!-- [<img alt="Firebase" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][Firebase] -->
+<!-- [<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++] -->
+<!-- [<img alt="Python" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python] -->
 [<img alt="Visual Studio" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio]
-[<img alt="VIM" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][VIM]
-[<img alt="ESLint" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][ESLint]
+<!-- [<img alt="VIM" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][VIM] -->
+<!-- [<img alt="ESLint" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][ESLint] -->
 [<img alt="Git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
 [<img alt="GitHub" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 
 ## 📚 Learning Right Now
 
-[<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++]
-[<img alt="Swift" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][Swift]
+<!-- [<img alt="C++" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][C++] -->
+<!-- [<img alt="Swift" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][Swift] -->
 
 ## 📃 Latest Blog Posts
 
@@ -68,27 +68,27 @@ Here are some ideas to get you started:
 
 <!-- Reference URLs -->
 [LinkedIn]: https://www.linkedin.com/in/hesham-eldib/
-[CodePen]: https://codepen.io/timbergus
+[CodePen]: https://codepen.io/HeshamEldib
 [StackOverflow]: https://stackoverflow.com/users/1999316/timbergus
 [HTML]: https://github.com/search?q=html
 [CSS]: https://github.com/search?q=css
 [JavaScript]: https://github.com/search?q=javascript
-[TypeScript]: https://www.typescriptlang.org/
+<!-- [TypeScript]: https://www.typescriptlang.org/ -->
 [React]: https://reactjs.org/
-[WebPack]: https://webpack.js.org/
+<!-- [WebPack]: https://webpack.js.org/ -->
 [Redux]: https://redux.js.org/
-[GraphQL]: https://graphql.org/
-[Jest]: https://jestjs.io/
-[Testing Library]: https://testing-library.com/
+<!-- [GraphQL]: https://graphql.org/ -->
+<!-- [Jest]: https://jestjs.io/ -->
+<!-- [Testing Library]: https://testing-library.com/ -->
 [Node]: https://nodejs.org/en/
-[Firebase]: https://firebase.google.com/
-[C++]: https://github.com/search?q=cpp
-[Swift]: https://github.com/search?q=swift
-[Python]: https://github.com/search?q=python
+<!-- [Firebase]: https://firebase.google.com/ -->
+<!-- [C++]: https://github.com/search?q=cpp -->
+<!-- [Swift]: https://github.com/search?q=swift -->
+<!-- [Python]: https://github.com/search?q=python -->
 [Visual Studio]: https://code.visualstudio.com/
-[VIM]: https://www.vim.org/
-[ESLint]: https://eslint.org/
+<!-- [VIM]: https://www.vim.org/ -->
+<!-- [ESLint]: https://eslint.org/ -->
 [Git]: https://git-scm.com/
 [GitHub]: https://github.com/
-[Flutter]: https://flutter.dev/
-[Dart]: https://dart.dev/
+<!-- [Flutter]: https://flutter.dev/ -->
+<!-- [Dart]: https://dart.dev/ -->
