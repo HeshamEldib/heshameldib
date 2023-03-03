@@ -59,19 +59,22 @@ Here are some ideas to get you started:
 [<img alt="PHP" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][PHP]
 <!-- [<img alt="Swift" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][Swift] -->
 
-## 📃 Latest Blog Posts
+
+<!-- ## 📃 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+<!-- 
 - [This is my first post](https://dev.to/timbergus/this-is-my-first-post-58ao)
 - [Flutter and Firebase &lpar;III&rpar;: Storage.](https://medium.com/@timbergus/flutter-and-firebase-iii-storage-6d02bc0d936c?source=rss-5deeef280c69------2)
 - [Flutter and Firebase &lpar;II&rpar;: Firestore.](https://medium.com/@timbergus/flutter-and-firebase-ii-firestore-2aea55d98a37?source=rss-5deeef280c69------2)
 - [Flutter and Firebase &lpar;I&rpar;: Authentication.](https://medium.com/@timbergus/flutter-and-firebase-i-authentication-593926a1b704?source=rss-5deeef280c69------2)
 - [Routing in Flutter. Just a Quick Example.](https://medium.com/@timbergus/routing-in-flutter-just-a-quick-example-c7b2048c1be0?source=rss-5deeef280c69------2)
+ -->
 <!-- BLOG-POST-LIST:END -->
 
-## 📊 Stats
+<!-- ## 📊 Stats
 
-[![Gustavo Muñoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbergus&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo Muñoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timbergus&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Reference URLs -->
 [LinkedIn]: https://www.linkedin.com/in/hesham-eldib/
