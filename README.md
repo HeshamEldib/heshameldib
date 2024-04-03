@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [<img alt="React" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
 [<img alt="Redux" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][Redux]
 [<img alt="Jest" width="58" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" />][Jest]
-[<img alt="GraphQL" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/graphql.png" />][GraphQL]
+[<img alt="GraphQL" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][GraphQL]
 
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
 [<img alt="Express" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][Express]
