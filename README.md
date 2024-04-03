@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [<img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript]
 [<img alt="TypeScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][TypeScript]
 [<img alt="Bootstrap" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][Bootstrap]
-[<img alt="Bootstrap" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][Bootstrap]
+[<img alt="Tailwind" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][Tailwind]
 [<img alt="Sass" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][Sass]
 [<img alt="jQuery" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][jQuery]
 [<img alt="React" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
@@ -90,6 +90,7 @@ Here are some ideas to get you started:
 [JavaScript]: https://github.com/search?q=javascript
 [TypeScript]: https://www.typescriptlang.org/
 [Bootstrap]: https://getbootstrap.com/
+[Tailwind]: https://tailwindcss.com/
 [Sass]: https://www.sassmeister.com/about
 [jQuery]: https://jquery.com/
 [React]: https://reactjs.org/
