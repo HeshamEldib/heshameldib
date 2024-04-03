@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 [<img alt="React" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
 [<img alt="Redux" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][Redux]
 [<img alt="Jest" width="58" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" />][Jest]
+[<img alt="GraphQL" width="58" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" />][GraphQL]
+
 [<img alt="Node" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
 [<img alt="Express" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][Express]
 [<img alt="Mongodb" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][Mongodb]
@@ -83,14 +85,14 @@ Here are some ideas to get you started:
 [HTML]: https://github.com/search?q=html
 [CSS]: https://github.com/search?q=css
 [JavaScript]: https://github.com/search?q=javascript
-<!-- [TypeScript]: https://www.typescriptlang.org/ -->
+[TypeScript]: https://www.typescriptlang.org/
 [Bootstrap]: https://getbootstrap.com/
 [Sass]: https://www.sassmeister.com/about
 [jQuery]: https://jquery.com/
 [React]: https://reactjs.org/
 <!-- [WebPack]: https://webpack.js.org/ -->
 [Redux]: https://redux.js.org/
-<!-- [GraphQL]: https://graphql.org/ -->
+[GraphQL]: https://graphql.org/
 [Jest]: https://jestjs.io/
 <!-- [Testing Library]: https://testing-library.com/ -->
 [Node]: https://nodejs.org/en/
