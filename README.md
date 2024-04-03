@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-My%20professional%20profile-blue?style=for-the-badge&logo=linkedin" />][LinkedIn]
 [<img alt="CodePen" src="https://img.shields.io/badge/CodePen-My%20personal%20playground-green?style=for-the-badge&logo=codepen" />][CodePen]
 [<img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-Myself-orange?style=for-the-badge&logo=stackoverflow" />][StackOverflow]
-[<img alt="Twitter" src="https://img.shields.io/badge/LinkedIn-My%20professional%20profile-blue?style=for-the-badge&logo=twitter" />][Twitter]
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-My%20professional%20profile-blue?style=for-the-badge&logo=twitter" />][Twitter]
 
 ## 🛠 Languages and Tools
 
