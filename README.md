@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-My%20professional%20profile-blue?style=for-the-badge&logo=linkedin" />][LinkedIn]
 [<img alt="CodePen" src="https://img.shields.io/badge/CodePen-My%20personal%20playground-green?style=for-the-badge&logo=codepen" />][CodePen]
 [<img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-Myself-orange?style=for-the-badge&logo=stackoverflow" />][StackOverflow]
+[<img alt="Twitter" src="https://img.shields.io/badge/LinkedIn-My%20professional%20profile-blue?style=for-the-badge&logo=twitter" />][Twitter]
 
 ## 🛠 Languages and Tools
 
@@ -82,6 +83,7 @@ Here are some ideas to get you started:
 [LinkedIn]: https://www.linkedin.com/in/hesham-eldib/
 [CodePen]: https://codepen.io/HeshamEldib
 [StackOverflow]: https://stackoverflow.com/users/21327061/hesham-eldib
+[Twitter]: https://twitter.com/Hesham_Eldib
 [HTML]: https://github.com/search?q=html
 [CSS]: https://github.com/search?q=css
 [JavaScript]: https://github.com/search?q=javascript
