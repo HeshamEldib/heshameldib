@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [<img alt="Sass" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][Sass]
 [<img alt="jQuery" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />][jQuery]
 [<img alt="React" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][React]
-[<img alt="Redux" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />][Redux]
+[<img alt="Redux" width="58" src="https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTMNYcxNTD3XA-WmctpEuB305lv_McGVk0l3eiCYOWh0hjV7OVer7UqS-DNWhWKCQVMXiXHWuqgQbVEzLhXwrAW3h7TYeXBAZY_kCnU6slrZ5hDE_8" />][Redux]
 [<img alt="Next" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png" />][Next]
 [<img alt="GraphQL" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][GraphQL]
 [<img alt="Jest" width="58" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" />][Jest]
