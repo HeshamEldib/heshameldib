@@ -97,6 +97,7 @@ Here are some ideas to get you started:
 [React]: https://reactjs.org/
 <!-- [WebPack]: https://webpack.js.org/ -->
 [Redux]: https://redux.js.org/
+[Next]: https://nextjs.org/
 [GraphQL]: https://graphql.org/
 [Jest]: https://jestjs.io/
 <!-- [Testing Library]: https://testing-library.com/ -->
